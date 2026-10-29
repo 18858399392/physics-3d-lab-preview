@@ -1,0 +1,91 @@
+{
+  "checkedAt": "2026-10-25T15:57:22.751Z",
+  "provider": "Poly Haven",
+  "licenseUrl": "https://polyhaven.com/license",
+  "files": [
+    {
+      "path": "environment/studio_small_03_4k.hdr",
+      "source": "https://polyhaven.com/a/studio_small_03",
+      "download": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/studio_small_03_4k.hdr",
+      "license": "CC0-1.0",
+      "asset": "studio_small_03",
+      "map": "HDRI",
+      "resolution": "4k",
+      "bytes": 26056941,
+      "md5": "15fab9d0a390360538b60a9a1a0e84ff",
+      "sha256": "b3a6ae365559247a45ce667a6c3806bb6d2c8f7b6af3a89cc2c38ddc47806d9c"
+    },
+    {
+      "path": "pbr/cherry-wood/color.jpg",
+      "source": "https://polyhaven.com/a/lacquered_cherry_wood",
+      "download": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/lacquered_cherry_wood/lacquered_cherry_wood_diff_2k.jpg",
+      "license": "CC0-1.0",
+      "asset": "lacquered_cherry_wood",
+      "map": "Diffuse",
+      "resolution": "2k",
+      "bytes": 2694321,
+      "md5": "abffe0901084d6e0ef2455331e08cce7",
+      "sha256": "15728956eae2ae99a4d23e69f94f9690a063477e253c92d04c7109b7702332b8"
+    },
+    {
+      "path": "pbr/cherry-wood/normal.png",
+      "source": "https://polyhaven.com/a/lacquered_cherry_wood",
+      "download": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/lacquered_cherry_wood/lacquered_cherry_wood_nor_gl_2k.png",
+      "license": "CC0-1.0",
+      "asset": "lacquered_cherry_wood",
+      "map": "nor_gl",
+      "resolution": "2k",
+      "bytes": 20562079,
+      "md5": "4b435d3ed2487352625f4f1c7cd0c792",
+      "sha256": "335e5e635037c2dd83332dae954fc28bc6ba87bfe80d88b9ecfa465b99e1b035"
+    },
+    {
+      "path": "pbr/cherry-wood/roughness.jpg",
+      "source": "https://polyhaven.com/a/lacquered_cherry_wood",
+      "download": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/lacquered_cherry_wood/lacquered_cherry_wood_rough_2k.jpg",
+      "license": "CC0-1.0",
+      "asset": "lacquered_cherry_wood",
+      "map": "Rough",
+      "resolution": "2k",
+      "bytes": 2589669,
+      "md5": "ed7d642b352a52dfdde4e60434118a27",
+      "sha256": "e1d7ec1e5d030e764b8bcad07048a7e197fae4498e57c29facc83d726e44a290"
+    },
+    {
+      "path": "pbr/fine-wood/color.jpg",
+      "source": "https://polyhaven.com/a/fine_grained_wood",
+      "download": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/fine_grained_wood/fine_grained_wood_col_2k.jpg",
+      "license": "CC0-1.0",
+      "asset": "fine_grained_wood",
+      "map": "Diffuse",
+      "resolution": "2k",
+      "bytes": 1327517,
+      "md5": "cfbfbf2cc0e0633af9b959a0e6e17182",
+      "sha256": "d97b1ab2c5206ac43bc0c42f21878da14f4d02497fd21396399406c03f3755a9"
+    },
+    {
+      "path": "pbr/fine-wood/normal.png",
+      "source": "https://polyhaven.com/a/fine_grained_wood",
+      "download": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/fine_grained_wood/fine_grained_wood_nor_gl_2k.png",
+      "license": "CC0-1.0",
+      "asset": "fine_grained_wood",
+      "map": "nor_gl",
+      "resolution": "2k",
+      "bytes": 3210822,
+      "md5": "c29616d3509274d1ba7c3fa7a111045f",
+      "sha256": "8bf311cca68565541749b32c91960e6e40fd9bfce651b923512394d571e21759"
+    },
+    {
+      "path": "pbr/fine-wood/roughness.jpg",
+      "source": "https://polyhaven.com/a/fine_grained_wood",
+      "download": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/fine_grained_wood/fine_grained_wood_rough_2k.jpg",
+      "license": "CC0-1.0",
+      "asset": "fine_grained_wood",
+      "map": "Rough",
+      "resolution": "2k",
+      "bytes": 871792,
+      "md5": "1356433f66fe066762c1be121f76738d",
+      "sha256": "7e8f5fc146ae7accd3b9deb2a173c1cf253707ccdee5070ce16cefd4ee68f1b7"
+    }
+  ]
+}

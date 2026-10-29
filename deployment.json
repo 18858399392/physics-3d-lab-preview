@@ -1,0 +1,832 @@
+{
+  "schema": 1,
+  "preparedAt": "2026-10-29T01:45:55.773Z",
+  "sourceCommit": "ec68a36",
+  "sourceDigest": "4c665ebf5e63e54cae3eddc49db65cf5ae5ee16c0e151e975b45843c75033fe7",
+  "referenceScreenshotBuild": "7dc3070d1e31bba7ca74fc07b0780b77ec30a563ccf96dbba9faea20b030adb7",
+  "scope": {
+    "book": "八年级上册",
+    "chapters": 6,
+    "experiments": 14,
+    "currentScreenshots": 42,
+    "baselineScreenshots": 14
+  },
+  "site": "https://18858399392.github.io/physics-3d-lab-preview/",
+  "gallery": "https://18858399392.github.io/physics-3d-lab-preview/docs/visual-upgrade/grade8-upper.html",
+  "build": "Vite production build with --base ./ in a fresh output directory",
+  "deploymentOnlyChanges": {
+    "materialAssetRoot": [
+      {
+        "path": "assets/selector-BqQnvBK5.js",
+        "occurrences": 1,
+        "beforeSHA256": "2176b0db64cbf1f24b52a2cd39f7c78e04caf72903866a579e64dbc5d14862de",
+        "afterSHA256": "27ea0708f33e7eeddbead5e1c225064cbad5c747fb967941902cca1dd79be03c"
+      }
+    ],
+    "onlineExperimentLinks": 14,
+    "galleryFooter": "Published scope and asset attribution; local-only source/log links removed"
+  },
+  "note": "Original experiment source/models and high-quality resources are unchanged. Screenshot provenance remains the original reviewed local build; this manifest records path-only web packaging, not new device certification.",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "assets/bubbles-VyWa4XgY.js",
+      "bytes": 1311,
+      "sha256": "913102495cd672fd263192a248dbbc8ba506e088bc720596282561ead6581903"
+    },
+    {
+      "path": "assets/catalog-BHeJmrpc.js",
+      "bytes": 16020,
+      "sha256": "f59679079a6a1251562ab923519cb70666c360636801e31344d134d48e7bbf28"
+    },
+    {
+      "path": "assets/controller-BWA5yNkF.js",
+      "bytes": 3631,
+      "sha256": "54c71151d69c13b8a945ca79560f842b8368884ffa2111456bac24e5f1d66505"
+    },
+    {
+      "path": "assets/dispersion-BjxM1U5A.css",
+      "bytes": 12160,
+      "sha256": "c0575d00a23f3f2079c5e2ea84d10935db0ae303ae1973e36c95394a38344cba"
+    },
+    {
+      "path": "assets/dispersion-DuecOChJ.js",
+      "bytes": 38127,
+      "sha256": "93255d420e9b2efcbb3d33c1eb0c6fd67cc5659367c537f7011903e0fca5fdd7"
+    },
+    {
+      "path": "assets/index-41JV5Zzu.js",
+      "bytes": 3830,
+      "sha256": "2f96a478ffa402a0bdfeb66bad0444f06d544e5fdf953e2d4f58a15d70d02a63"
+    },
+    {
+      "path": "assets/index-8swrhBur.js",
+      "bytes": 2708,
+      "sha256": "8aa0fe311e02eb9b7f8612f7c07892fa5d48cc270a7f5e6e8b898f7ed5c73bfa"
+    },
+    {
+      "path": "assets/index-a8gHnkVe.js",
+      "bytes": 4532,
+      "sha256": "5214d430af0385eadc2b5f47363af0fe920d1acbd483bac93c4c5229092e4410"
+    },
+    {
+      "path": "assets/index-B6TVRwR8.js",
+      "bytes": 1003,
+      "sha256": "c7668ad71738e1eefba14dec110943c408c64d65b8eb4dd9ab3c83d1e698049b"
+    },
+    {
+      "path": "assets/index-B6WfqdGo.js",
+      "bytes": 2333,
+      "sha256": "d9210cefe94c1686139944a307d1d1e18baa3d03686a12c41b82704cf5775c3b"
+    },
+    {
+      "path": "assets/index-B9g7hvGi.js",
+      "bytes": 2105,
+      "sha256": "ff5392fb6d1680740d43f019b685876784bd52edb3911cdbac20af2f745fa1f8"
+    },
+    {
+      "path": "assets/index-Bg6W28I4.js",
+      "bytes": 974,
+      "sha256": "f3df9840bbdf90441c3a50c1a9ff646d42897c7cfe8a5599e17588fd35005d44"
+    },
+    {
+      "path": "assets/index-BJTktAxd.js",
+      "bytes": 17354,
+      "sha256": "36c3ea42875cf9238c286a15b43b44a3455e810bcdf18c5c8f4c4dac61da4dd5"
+    },
+    {
+      "path": "assets/index-BlASEyGI.js",
+      "bytes": 3504,
+      "sha256": "04d6a207685508cc70a7a0238d09982258bb3e973cc5965f31977e138cbb2d97"
+    },
+    {
+      "path": "assets/index-Bn32VCGk.js",
+      "bytes": 3652,
+      "sha256": "53c06d699858dbd220204a41ea3ca3badffdd557f1f0aa227c3851e2c57ddf90"
+    },
+    {
+      "path": "assets/index-BpAmJAmz.js",
+      "bytes": 808,
+      "sha256": "c9c1907e08e13ec00e7d53092a06c8d197f6c596ae32f887cca86badeec7fd3c"
+    },
+    {
+      "path": "assets/index-BQcW5mAb.js",
+      "bytes": 3627,
+      "sha256": "433cff328b2815ddcf560bd222e367e1ffafad1e19076b831d0e26c14eefb031"
+    },
+    {
+      "path": "assets/index-BRdLTxVQ.js",
+      "bytes": 5704,
+      "sha256": "b0ae7869b770a863b10ce886ace915e4d7e1f0818b09e854fc26308613a08f9d"
+    },
+    {
+      "path": "assets/index-BT6jq2GN.js",
+      "bytes": 17424,
+      "sha256": "6600a72060653311367eb0a95e50e605c6f3de9b8de707ebd30ae2656dc41d5c"
+    },
+    {
+      "path": "assets/index-BTmql1QN.js",
+      "bytes": 3546,
+      "sha256": "d75129be4e8e3509603ef08f7988bff5de4420ff732c7a896a4c41bb8ddddd84"
+    },
+    {
+      "path": "assets/index-Bu3a80al.js",
+      "bytes": 3375,
+      "sha256": "ff648c2c2475ab1bbd0d6716c0d7fd5763708877478176b0e1436e6294f29dc1"
+    },
+    {
+      "path": "assets/index-BX4dDLVS.js",
+      "bytes": 954,
+      "sha256": "c33754e60584d3515d590135c033d98249b143020d29903dd5665e29c6596b7d"
+    },
+    {
+      "path": "assets/index-B_ZjdV54.js",
+      "bytes": 1363,
+      "sha256": "1a39c0690f5dc81d3d59068b7b99c81e636e618a6e620d4bd81d7889cbc0fd80"
+    },
+    {
+      "path": "assets/index-CcM9IpL3.js",
+      "bytes": 1260,
+      "sha256": "87aada8fbb54d170b60057d3986251c74be4fb781c05a3a94978c60cb033e1cb"
+    },
+    {
+      "path": "assets/index-CdFMhuWm.js",
+      "bytes": 3061,
+      "sha256": "5070be6bb41127e4fea6b9bf0659ebe0ec7bea28e5fdcc1ad484a3c012964445"
+    },
+    {
+      "path": "assets/index-CghC71RV.js",
+      "bytes": 828,
+      "sha256": "e6162b84e87272d05b82f37fa20e5c48da1e7e0972c78998bc2d78474c667a36"
+    },
+    {
+      "path": "assets/index-CGl3ZTCy.js",
+      "bytes": 1037,
+      "sha256": "fb955e80379b50fa9002a4702c4c886066ec295157211816c7b280b3dfa5873b"
+    },
+    {
+      "path": "assets/index-CI7vFYEq.js",
+      "bytes": 3241,
+      "sha256": "6c759b446d2092cc301cb9df338246c91773cda51a5c940ef8873710b893f73d"
+    },
+    {
+      "path": "assets/index-CKa5gQvf.js",
+      "bytes": 3040,
+      "sha256": "9d4a1d6161bbd33caf2ff9cd96e720195587b72a7b4c5af11de337d6c9348c62"
+    },
+    {
+      "path": "assets/index-CrQg8NA-.js",
+      "bytes": 4173,
+      "sha256": "4e0cf9343820f3f4dd7582c60373855aa7364976ba9a996a519eb429cd5bf0fa"
+    },
+    {
+      "path": "assets/index-CVOS_68n.js",
+      "bytes": 3758,
+      "sha256": "00167bf22611d363242a9c2aa23e8416ca2d66c0425e0dea1639acafc9d9ccb4"
+    },
+    {
+      "path": "assets/index-CW8NJJnm.js",
+      "bytes": 833,
+      "sha256": "996aadc1be7ded8df249ecb842e71e5e166e46425a7657795d733602a872e978"
+    },
+    {
+      "path": "assets/index-CWLYmR0C.js",
+      "bytes": 869,
+      "sha256": "77245d707e11cf91515491bd8d2369e2c753ff7625d851fb1d730967b664cf44"
+    },
+    {
+      "path": "assets/index-Cx4eQfO1.js",
+      "bytes": 14461,
+      "sha256": "598cf70dc885f8fefdf75bdd5891f8650a93d2fe622138edadb7a5e1ead6a437"
+    },
+    {
+      "path": "assets/index-CXmAHbe0.js",
+      "bytes": 3719,
+      "sha256": "42892b93f4413ce5ac5bedbd86bf6ce165ad3d342b397bf3fb78a2e198a0d8f4"
+    },
+    {
+      "path": "assets/index-D3MzSfZI.js",
+      "bytes": 1151,
+      "sha256": "6c39bed66182e5d41b010bcdeda415b672551474de2d4248da99e077e06510b2"
+    },
+    {
+      "path": "assets/index-D4r2A-iJ.js",
+      "bytes": 24870,
+      "sha256": "cc30999c6bd077ff0e1b9bdf759159ee176bbdaf96c365bfee75b2a436b92598"
+    },
+    {
+      "path": "assets/index-D7NFkeJ9.js",
+      "bytes": 1047,
+      "sha256": "4f15366a570a0039903b900b258f1dd46c2fb91601f2741ab123c472b54bbab2"
+    },
+    {
+      "path": "assets/index-DCA_9ypM.js",
+      "bytes": 3053,
+      "sha256": "3dc5d38aa8e695077a9ca2bbd3c659b6f0713a2aafd442719ae251e2910c707c"
+    },
+    {
+      "path": "assets/index-Dd25Duno.js",
+      "bytes": 1242,
+      "sha256": "125f71a68054fc6b4cc9fc7ca0e200a327223b423db8f4e9b25cfd71e3d3fc3e"
+    },
+    {
+      "path": "assets/index-DJ2_HLwS.js",
+      "bytes": 994,
+      "sha256": "2a559e09db844ac3999fdb68cf9c412cf9e4d1b8a832fe7dc24b1864fd69c3f5"
+    },
+    {
+      "path": "assets/index-DJB1xo_A.js",
+      "bytes": 3618,
+      "sha256": "ed07f933a4e3ccdf34877dab2edf32fd95ad5774f51a06c6304a5f2b41925cfe"
+    },
+    {
+      "path": "assets/index-DMdu3kVs.js",
+      "bytes": 3285,
+      "sha256": "f607eeebad8cff679dae21b686b565b4f35bf6ef06b1c7b48203db9f907a869a"
+    },
+    {
+      "path": "assets/index-DONc3_6Y.js",
+      "bytes": 17768,
+      "sha256": "feebb676c1ae980400481686d70e559f444edec13b7084a11a927857cb77f459"
+    },
+    {
+      "path": "assets/index-eslV_QDV.js",
+      "bytes": 13201,
+      "sha256": "9679dd6bd8e83d07f0da3862283281c51463a3bb501307d45e3f601a284e13bd"
+    },
+    {
+      "path": "assets/index-hD-rRw-v.js",
+      "bytes": 4423,
+      "sha256": "c4c885b42d9fd6a996a5d043a02a88c1e4bf3b2eb0bd80783eeb0e2271dc4b42"
+    },
+    {
+      "path": "assets/index-Kr7HsZ9H.js",
+      "bytes": 641,
+      "sha256": "20ce1405a463675104e15f7e7a7fb237852785da70e703bf435b841192d4b963"
+    },
+    {
+      "path": "assets/index-lURi4KaW.js",
+      "bytes": 8978,
+      "sha256": "08fd24d34a14afb9cf2eabce72ac1169f660720eb1da52bd8487964125e43311"
+    },
+    {
+      "path": "assets/index-q3Vj3iEs.js",
+      "bytes": 4698,
+      "sha256": "1c4ae7a4430f9c444b95d7ffc67a31b02968f6bc8c72b1f238e3b790dbae626a"
+    },
+    {
+      "path": "assets/index-QlY6CyaE.js",
+      "bytes": 760,
+      "sha256": "b85250af029681acecee98a115be39da9566c456c2cf2e077bd0a8601d184889"
+    },
+    {
+      "path": "assets/index-ShdGsxjR.js",
+      "bytes": 1168,
+      "sha256": "25e632e7830b621008505821a9a5947ea94952fff1487e184956c86c374af76f"
+    },
+    {
+      "path": "assets/index-SX6l03IC.js",
+      "bytes": 2961,
+      "sha256": "5685f644eb58b3eb5f25fe6a74e83700d05d4b1ac723c5369e7f5c9b41d835e8"
+    },
+    {
+      "path": "assets/index-VVyJyM-r.js",
+      "bytes": 4020,
+      "sha256": "711f30b4fe7b5edaa2d5fdc0557c5911daf67685376c2690dc855270bd520933"
+    },
+    {
+      "path": "assets/index-WrgIKRgQ.js",
+      "bytes": 1268,
+      "sha256": "48da1f700f8fcc05ca180ccf05f422845eac1e6ddf3836780a6c9e626a8894ad"
+    },
+    {
+      "path": "assets/index-YaR4K8-F.js",
+      "bytes": 3286,
+      "sha256": "f3cdb148635cc532f16b088d917d6d661836fc0e74b5fffd3d84e747fdfe8f32"
+    },
+    {
+      "path": "assets/kit-DzDj5Iyo.js",
+      "bytes": 19787,
+      "sha256": "ea1886ef28860c80884aa2eee6b6cdbdd9825350da409d41e7a71bc3365379e9"
+    },
+    {
+      "path": "assets/lab-6eGDrCzS.css",
+      "bytes": 12196,
+      "sha256": "46d02a73b9b04340b71659489ee266baecb83b1eabb5dbd4682c064b74eb2f90"
+    },
+    {
+      "path": "assets/lab-ZFqAKqfV.js",
+      "bytes": 7608,
+      "sha256": "420f0be9f55f26ec0be35de4ec599bd33fbf66345072dc51620f127951f0c794"
+    },
+    {
+      "path": "assets/laboratory-apparatus-BClvwi8t.js",
+      "bytes": 9157,
+      "sha256": "b80b2e25dc3e06348d9efbf68399656d6ff36daa259a35156026c1b3c47cf0ff"
+    },
+    {
+      "path": "assets/meters-OUqP-49l.js",
+      "bytes": 728,
+      "sha256": "91baa1233d763a2148b8549e1a0814efa9671542cef7c17e542168b4e439257b"
+    },
+    {
+      "path": "assets/premium-mechanics-D_kasijd.js",
+      "bytes": 33249,
+      "sha256": "5c22b4e292969fc76204da524df31d6a828dfca401d438370f2e40810e4292bc"
+    },
+    {
+      "path": "assets/premium-optical-electric-D78SjmDK.js",
+      "bytes": 3814,
+      "sha256": "8ce1673de6d4afc32da26542ba754cc26ade8ecda5a5239d22b8b163211a0fa2"
+    },
+    {
+      "path": "assets/selector-9cmOBr-3.css",
+      "bytes": 5065,
+      "sha256": "25fa8ba09b975ccc0b992a803f55c6a0932f89f39058fba086f826485c310ec2"
+    },
+    {
+      "path": "assets/selector-BqQnvBK5.js",
+      "bytes": 1035328,
+      "sha256": "27ea0708f33e7eeddbead5e1c225064cbad5c747fb967941902cca1dd79be03c"
+    },
+    {
+      "path": "assets/specs-C1QkKM05.js",
+      "bytes": 62781,
+      "sha256": "df8182d7e2b2723c714ef357d45b36dc715a4baac1b04e25c82e185b4a47ce83"
+    },
+    {
+      "path": "assets/system-apparatus-9DgEnJ2y.js",
+      "bytes": 10868,
+      "sha256": "97754651ef11003d5d657d77704aaa474bea52c6d0b026803290998dd490f37e"
+    },
+    {
+      "path": "assets/view-BCKkaBaC.js",
+      "bytes": 6645,
+      "sha256": "f402aa5d5dcdd373f4fab9f75565b5f462b9278fdd0fb14b5bef416d422a311a"
+    },
+    {
+      "path": "dispersion.html",
+      "bytes": 6062,
+      "sha256": "f5d0d60359442dfcd51df03f6d909d273d96fa1fe460f4eb293618fdc0666b84"
+    },
+    {
+      "path": "docs/visual-upgrade/after/desktop/boiling.png",
+      "bytes": 588166,
+      "sha256": "7eeb61c1c3c7008b9f3d2a7d50235fcb432fe6120fc93717f0cd73ff150aad61"
+    },
+    {
+      "path": "docs/visual-upgrade/after/desktop/density.png",
+      "bytes": 541501,
+      "sha256": "5a4c9383d30c6f111f4fb55e2aefe93a420da00de7f57b5d6227bf09435463f3"
+    },
+    {
+      "path": "docs/visual-upgrade/after/desktop/dispersion.png",
+      "bytes": 780505,
+      "sha256": "0db9a866025c8bb06dade26a85e817d2779d5e6ce61cffb2c09e8b470f8c295d"
+    },
+    {
+      "path": "docs/visual-upgrade/after/desktop/evaporation.png",
+      "bytes": 620032,
+      "sha256": "81ead8052a3a46fde0b52c1b6b030a87b6ed5f4fade7f5a5b29a4698bce1b5d7"
+    },
+    {
+      "path": "docs/visual-upgrade/after/desktop/eye.png",
+      "bytes": 819225,
+      "sha256": "9c88af27500f80dc38990f3f721db735e3d0407444d62a50e3ab0e69aec0ef91"
+    },
+    {
+      "path": "docs/visual-upgrade/after/desktop/lens.png",
+      "bytes": 845921,
+      "sha256": "314cdbd4268ede933216cc5cb4b0dc3495175abaad614a0b06b8dac09c4f5283"
+    },
+    {
+      "path": "docs/visual-upgrade/after/desktop/melting.png",
+      "bytes": 573960,
+      "sha256": "4abe17d9f507a98fb6ca9a65267ac3aef3e5cf5c58e189771cb6ef31706c17bf"
+    },
+    {
+      "path": "docs/visual-upgrade/after/desktop/plane-mirror.png",
+      "bytes": 669708,
+      "sha256": "f820e44b74e316506e43c7674d22260d965b3593e39e15704cedd757960eec35"
+    },
+    {
+      "path": "docs/visual-upgrade/after/desktop/reference-frame.png",
+      "bytes": 1407632,
+      "sha256": "e8a53c886e01f37f1e002a2ea3a9ed3e5416dd1e028bb5d862c2b365e0cab6bb"
+    },
+    {
+      "path": "docs/visual-upgrade/after/desktop/reflection.png",
+      "bytes": 542472,
+      "sha256": "50481ff8a303cdd37ee265d5eeff1e7e38a6d2c4f5fbde7713bee9dd9aefc5d9"
+    },
+    {
+      "path": "docs/visual-upgrade/after/desktop/refraction.png",
+      "bytes": 532450,
+      "sha256": "d6106084573a28be9fc57150926d9727cf3f123ef14112c7afb418aaed28aae8"
+    },
+    {
+      "path": "docs/visual-upgrade/after/desktop/speed.png",
+      "bytes": 685216,
+      "sha256": "f60096f0114f4a99fba450fe24abad62dfc5dac83c9e3e000321ef4a8a29d316"
+    },
+    {
+      "path": "docs/visual-upgrade/after/desktop/string.png",
+      "bytes": 727971,
+      "sha256": "e79fef024a6f6c6db061cf05bd228159fb74bddc8929ff5ac9a6628711fb5fd9"
+    },
+    {
+      "path": "docs/visual-upgrade/after/desktop/vacuum-bell.png",
+      "bytes": 597626,
+      "sha256": "47e697c02e635beffe9e7ac59114c597a13587fd876e1b8e818820f36557d30a"
+    },
+    {
+      "path": "docs/visual-upgrade/after/landscape/boiling.png",
+      "bytes": 539351,
+      "sha256": "3c7fbacbca23a8a321020e03069c30284fb6d1cb9df5dede2457c3072f9d54a6"
+    },
+    {
+      "path": "docs/visual-upgrade/after/landscape/density.png",
+      "bytes": 530448,
+      "sha256": "850ea298843edc4be54a7b6fa0f09431fe97546720c556026ac8dd94d653a607"
+    },
+    {
+      "path": "docs/visual-upgrade/after/landscape/dispersion.png",
+      "bytes": 1078464,
+      "sha256": "ef1c9fc87cbdb918f696517f9188c99870ec587ad46dd065747d44060847388b"
+    },
+    {
+      "path": "docs/visual-upgrade/after/landscape/evaporation.png",
+      "bytes": 540732,
+      "sha256": "2481eb4045cf7700a5b3892ffe1ff13efd43f9e3fe1944a93afaf8bf5259ca7d"
+    },
+    {
+      "path": "docs/visual-upgrade/after/landscape/eye.png",
+      "bytes": 617789,
+      "sha256": "b11d286ba264cb7b5f4a7c4330473bc2516155a3ebc981bb9f4d3c36bc478bf5"
+    },
+    {
+      "path": "docs/visual-upgrade/after/landscape/lens.png",
+      "bytes": 609128,
+      "sha256": "1e2f013f39082cb905cb8a6cc45ed5c731ae3b3be17e7cff05368349a19a37ee"
+    },
+    {
+      "path": "docs/visual-upgrade/after/landscape/melting.png",
+      "bytes": 505918,
+      "sha256": "cade2b78f6e2d39665f107dbf8b40380807e1f264f5cef5aaf901e2e6f08e103"
+    },
+    {
+      "path": "docs/visual-upgrade/after/landscape/plane-mirror.png",
+      "bytes": 513951,
+      "sha256": "2428549a16ed51a1f67a8268900921d5df81d17d3c5df1c8921ef0885e8711b5"
+    },
+    {
+      "path": "docs/visual-upgrade/after/landscape/reference-frame.png",
+      "bytes": 1540365,
+      "sha256": "c0e05aa7772bdac366b9ed087180db586f223a7e043b6b9fbcf9e1243b498c68"
+    },
+    {
+      "path": "docs/visual-upgrade/after/landscape/reflection.png",
+      "bytes": 463529,
+      "sha256": "3085b2aabbb34ca078b8f7c314b9367a8f0d7fb9049112f84c14c1f2c64df38f"
+    },
+    {
+      "path": "docs/visual-upgrade/after/landscape/refraction.png",
+      "bytes": 486972,
+      "sha256": "00c3a875efe2846ac74ff84bd71cc60e35517fc3499677fd73356e64e05a044e"
+    },
+    {
+      "path": "docs/visual-upgrade/after/landscape/speed.png",
+      "bytes": 550414,
+      "sha256": "043736fc37827543276092f487401991a6e6f3bb132d63560ee08f6b7f985b9f"
+    },
+    {
+      "path": "docs/visual-upgrade/after/landscape/string.png",
+      "bytes": 574302,
+      "sha256": "fbbd4fd67b817c2f622ae22dd0f365565b4ee6c2546c6b3a6519842d93942abe"
+    },
+    {
+      "path": "docs/visual-upgrade/after/landscape/vacuum-bell.png",
+      "bytes": 547972,
+      "sha256": "635e18f6bea529c4d3c1926fcef1ad80c795e1e18b4e74e132bf4b223ecd873b"
+    },
+    {
+      "path": "docs/visual-upgrade/after/portrait/boiling.png",
+      "bytes": 691878,
+      "sha256": "3d2a5aa5fd86664688f4b250df8b8706dec698187e58bbacd87f44af05008cb4"
+    },
+    {
+      "path": "docs/visual-upgrade/after/portrait/density.png",
+      "bytes": 634992,
+      "sha256": "cceaab3adb5c6b8b5584f17fbd295973388bff242f91fde0d5be7ec6540365e5"
+    },
+    {
+      "path": "docs/visual-upgrade/after/portrait/dispersion.png",
+      "bytes": 901063,
+      "sha256": "749874609a67ab1586a43e2b64a4df64a3fb6a69fce3ade3fd82454253a8b8a7"
+    },
+    {
+      "path": "docs/visual-upgrade/after/portrait/evaporation.png",
+      "bytes": 757155,
+      "sha256": "7a366da006fbcb575c27bc3b14c9707dc5a736221b5fcc4d9f7ecdfd1e76017e"
+    },
+    {
+      "path": "docs/visual-upgrade/after/portrait/eye.png",
+      "bytes": 771651,
+      "sha256": "761b58f2886fea22d14cf216670312e44b24684e7e0fce10dcbb212c62c402ea"
+    },
+    {
+      "path": "docs/visual-upgrade/after/portrait/lens.png",
+      "bytes": 790375,
+      "sha256": "9391607f727b95f792988129316f252365c49a58f51a7c4704f4664c835de8b4"
+    },
+    {
+      "path": "docs/visual-upgrade/after/portrait/melting.png",
+      "bytes": 700984,
+      "sha256": "523fd36c605d8222aa87c9c79f5e7f46caec22af55a38a12671321b6188bf338"
+    },
+    {
+      "path": "docs/visual-upgrade/after/portrait/plane-mirror.png",
+      "bytes": 618282,
+      "sha256": "6670e623c7b9c37398df49c7a194ad8c92578f1b1a4065b317ff0042e0975260"
+    },
+    {
+      "path": "docs/visual-upgrade/after/portrait/reference-frame.png",
+      "bytes": 1172939,
+      "sha256": "bfbb464e10e14883c4fd6af955d2f4de86f907fc59f48fff414cbd16bb193f83"
+    },
+    {
+      "path": "docs/visual-upgrade/after/portrait/reflection.png",
+      "bytes": 649881,
+      "sha256": "519a392abab7bb71e0c8f4603682cbbd559dda6135c63b29324c0481b97226f2"
+    },
+    {
+      "path": "docs/visual-upgrade/after/portrait/refraction.png",
+      "bytes": 750829,
+      "sha256": "5f026d72d3a0ca3259cbfb116da2ae33971d3061be4d334979527c3167723123"
+    },
+    {
+      "path": "docs/visual-upgrade/after/portrait/speed.png",
+      "bytes": 770767,
+      "sha256": "3900758006f68d8d428100952da66a3a28b0644dcceeaaaf96578087f8708aa9"
+    },
+    {
+      "path": "docs/visual-upgrade/after/portrait/string.png",
+      "bytes": 784663,
+      "sha256": "c491a20c034529e5427d359f480ce3f70da769323d995f8051b61460b85e9448"
+    },
+    {
+      "path": "docs/visual-upgrade/after/portrait/vacuum-bell.png",
+      "bytes": 706051,
+      "sha256": "077676d35a9d48fde6df434a95b3ca0c3576c13456e242413ed49c54449f8287"
+    },
+    {
+      "path": "docs/visual-upgrade/before/boiling.png",
+      "bytes": 411141,
+      "sha256": "c313a832d4975f8809042c4c3e8a4c5b98d2da843c400f74a59873d26cbc4f62"
+    },
+    {
+      "path": "docs/visual-upgrade/before/density.png",
+      "bytes": 409730,
+      "sha256": "85bfa9e43fd14cf2dade19a023726f2bc5b3d0f4af08872890365126a1d4fb7a"
+    },
+    {
+      "path": "docs/visual-upgrade/before/dispersion.png",
+      "bytes": 449396,
+      "sha256": "ed918ce824566c84f9e5aad2055a19e1df14bbac14f0e8de41e8934337c47f5d"
+    },
+    {
+      "path": "docs/visual-upgrade/before/evaporation.png",
+      "bytes": 441950,
+      "sha256": "adb81f8bd317e2ef4a3449ffa2f619ae92bc82f76528438111cf0b58113f074f"
+    },
+    {
+      "path": "docs/visual-upgrade/before/eye.png",
+      "bytes": 421968,
+      "sha256": "4c3d229387864a94ae5e00b4ad973a7b366d8fea30fd5cc07875d7febfef5344"
+    },
+    {
+      "path": "docs/visual-upgrade/before/lens.png",
+      "bytes": 489435,
+      "sha256": "c0f930dedbe73f84cdb9a096324ba1ad45dc8d7ab6bf8a5d82d47c35fad99b41"
+    },
+    {
+      "path": "docs/visual-upgrade/before/melting.png",
+      "bytes": 408681,
+      "sha256": "765804e129d93534209dcc7a8fed6ce8ff9f06e66c3f19eccc1eb0a71fce8a09"
+    },
+    {
+      "path": "docs/visual-upgrade/before/plane-mirror.png",
+      "bytes": 392852,
+      "sha256": "71e92cad476b51449134c27b53a5cfacbd20821aa6468e9482d59d3de957c5b5"
+    },
+    {
+      "path": "docs/visual-upgrade/before/reference-frame.png",
+      "bytes": 572356,
+      "sha256": "fefe59757e90645eed0840fa0b797e330fd948c4203ca7402ca7cdd27a29d29c"
+    },
+    {
+      "path": "docs/visual-upgrade/before/reflection.png",
+      "bytes": 374392,
+      "sha256": "ac7777d259880a03ab38cafe03fec4ba99c075b981361c5c1aa6de59b8a25c4d"
+    },
+    {
+      "path": "docs/visual-upgrade/before/refraction.png",
+      "bytes": 447020,
+      "sha256": "009414e315c0dc8b8c04cacc8d90f7ee49cf0cfbfd66955635c9aafe337811ea"
+    },
+    {
+      "path": "docs/visual-upgrade/before/speed.png",
+      "bytes": 467686,
+      "sha256": "23f7704b0f2987ef196848f69e4fb53fc6f87f5fc09e50cd3e8cca9d0d2ec5ac"
+    },
+    {
+      "path": "docs/visual-upgrade/before/string.png",
+      "bytes": 551732,
+      "sha256": "8ab732f7dac6b739d8a72a630b4fa104bb1fd6e6c3929ae04c3f0cecadf15ef2"
+    },
+    {
+      "path": "docs/visual-upgrade/before/vacuum-bell.png",
+      "bytes": 432831,
+      "sha256": "521fabdf33f354ef9dcb99afc3ea883680aa0d09f314624b7606894b931f6482"
+    },
+    {
+      "path": "docs/visual-upgrade/grade8-upper.html",
+      "bytes": 60708,
+      "sha256": "f4d7dd73c8570acab21cc354b3c4356efa5732c6084d986bb9af938ace17dbc7"
+    },
+    {
+      "path": "fonts/noto-serif-sc-100-wght-normal.woff2",
+      "bytes": 84696,
+      "sha256": "fed9f7a5c10a94cbe0a7e6789512607a1abdf797ac9c6d1f2462e6bca2573734"
+    },
+    {
+      "path": "fonts/noto-serif-sc-113-wght-normal.woff2",
+      "bytes": 75872,
+      "sha256": "1594e53f4ab5fe067f7ba108b65a71ed07b2fb9da68af01349b4966c871e4d36"
+    },
+    {
+      "path": "fonts/noto-serif-sc-115-wght-normal.woff2",
+      "bytes": 72508,
+      "sha256": "a56a7e1d3efa7e7a4b30b086153398d3ed87a2b984551c046b614c03b4c3f9cd"
+    },
+    {
+      "path": "fonts/noto-serif-sc-116-wght-normal.woff2",
+      "bytes": 67304,
+      "sha256": "06ad3ccc929aa35ffb271c64ba4b1a8a14c8a2076b583eb2b32c7169f74c33c3"
+    },
+    {
+      "path": "fonts/noto-serif-sc-117-wght-normal.woff2",
+      "bytes": 66656,
+      "sha256": "fd992a95c6a01de7bfb520c01ca4ad20c60cb5a91f0fb21cf46fe1e13e78fd2b"
+    },
+    {
+      "path": "fonts/noto-serif-sc-118-wght-normal.woff2",
+      "bytes": 58224,
+      "sha256": "b75a2da2189e8db96e83563b650fb04466ca9284d28a1e27ff4d4aaaee5d13b6"
+    },
+    {
+      "path": "fonts/noto-serif-sc-119-wght-normal.woff2",
+      "bytes": 104964,
+      "sha256": "25412edffa19ad8baf75508052ec4b5c8ecfcf75384f98b67cea291886f8d0c4"
+    },
+    {
+      "path": "fonts/OFL.txt",
+      "bytes": 4314,
+      "sha256": "18aabf190848725e2576eefb5c29ba06aac1029d02132252a7f312eac2e50cf3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 790,
+      "sha256": "555c0353e77022aa156208d4fcd5ea4ef935a5e6c9bb0805d852ce24195b6ab9"
+    },
+    {
+      "path": "lab.html",
+      "bytes": 2308,
+      "sha256": "e44a07047196dc255d5c8dc84be3ae6e3af5f46e815447a29ddf3ed18fa87060"
+    },
+    {
+      "path": "preview/index.html",
+      "bytes": 349,
+      "sha256": "af938cd1cc373a4079df597343259d971ca5ca0b4a929cf3c0aeb742da969943"
+    },
+    {
+      "path": "README.md",
+      "bytes": 363,
+      "sha256": "1d36b490506e582be48033902e3b71a5c0e546e0fb379e0296465259b492576d"
+    },
+    {
+      "path": "THREE-LICENSE.txt",
+      "bytes": 1081,
+      "sha256": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
+    },
+    {
+      "path": "visual-assets/environment/studio_small_03_4k.hdr",
+      "bytes": 26056941,
+      "sha256": "b3a6ae365559247a45ce667a6c3806bb6d2c8f7b6af3a89cc2c38ddc47806d9c"
+    },
+    {
+      "path": "visual-assets/NOTICE.md",
+      "bytes": 1258,
+      "sha256": "45f045cd850ad0b78fcaebdf8d8821766acb629a604446c508de54f9fb5e652d"
+    },
+    {
+      "path": "visual-assets/pbr/cherry-wood/color.jpg",
+      "bytes": 2694321,
+      "sha256": "15728956eae2ae99a4d23e69f94f9690a063477e253c92d04c7109b7702332b8"
+    },
+    {
+      "path": "visual-assets/pbr/cherry-wood/normal.png",
+      "bytes": 20562079,
+      "sha256": "335e5e635037c2dd83332dae954fc28bc6ba87bfe80d88b9ecfa465b99e1b035"
+    },
+    {
+      "path": "visual-assets/pbr/cherry-wood/roughness.jpg",
+      "bytes": 2589669,
+      "sha256": "e1d7ec1e5d030e764b8bcad07048a7e197fae4498e57c29facc83d726e44a290"
+    },
+    {
+      "path": "visual-assets/pbr/fine-wood/color.jpg",
+      "bytes": 1327517,
+      "sha256": "d97b1ab2c5206ac43bc0c42f21878da14f4d02497fd21396399406c03f3755a9"
+    },
+    {
+      "path": "visual-assets/pbr/fine-wood/normal.png",
+      "bytes": 3210822,
+      "sha256": "8bf311cca68565541749b32c91960e6e40fd9bfce651b923512394d571e21759"
+    },
+    {
+      "path": "visual-assets/pbr/fine-wood/roughness.jpg",
+      "bytes": 871792,
+      "sha256": "7e8f5fc146ae7accd3b9deb2a173c1cf253707ccdee5070ce16cefd4ee68f1b7"
+    },
+    {
+      "path": "visual-assets/procedural/brushed-normal.png",
+      "bytes": 634957,
+      "sha256": "bccd62bf5e055e5a7b4652be1bc745bb25ee6a5fb05e7ee8cb67eb525b7dc8eb"
+    },
+    {
+      "path": "visual-assets/procedural/brushed-roughness.png",
+      "bytes": 406701,
+      "sha256": "6f4857a17d3d54f74b832d57bdb28f1ff86c1fd042f2c4381426dab02c0ea0bd"
+    },
+    {
+      "path": "visual-assets/procedural/foam-normal.png",
+      "bytes": 8753787,
+      "sha256": "872a03c598161fc09f9638948b41c333e408efcbd00aad92aed58f2167caf524"
+    },
+    {
+      "path": "visual-assets/procedural/foam-roughness.png",
+      "bytes": 1758425,
+      "sha256": "05707102c54519509c9cf8acb3f29020ed69691ead5080743658ca55232b6fc0"
+    },
+    {
+      "path": "visual-assets/procedural/ice-normal.png",
+      "bytes": 4447449,
+      "sha256": "ec3854929495fcf01c4b429ba9461908700ea0490ef8d1ea88fa7fcd318ee1e8"
+    },
+    {
+      "path": "visual-assets/procedural/ice-roughness.png",
+      "bytes": 1081278,
+      "sha256": "ae4fe622a09f9bb5de348498f05276e32858cc078eb5b020f96991a77fd6319d"
+    },
+    {
+      "path": "visual-assets/procedural/paint-normal.png",
+      "bytes": 5534447,
+      "sha256": "f2fec4f2c55d6ff60221336aa740b802d200b5f653b0d69c81b3767c471b456b"
+    },
+    {
+      "path": "visual-assets/procedural/paint-roughness.png",
+      "bytes": 2475259,
+      "sha256": "7b5d2fbd78adc1ad67661bafa76b56d2d88fd3ad5e98b2fe5ffb8e868d78b97d"
+    },
+    {
+      "path": "visual-assets/procedural/rubber-normal.png",
+      "bytes": 8407988,
+      "sha256": "e5e1e6f039eeb3a281e053b889043fabb5c0bc695cb21f64dbebfc27836d39bc"
+    },
+    {
+      "path": "visual-assets/procedural/rubber-roughness.png",
+      "bytes": 2852866,
+      "sha256": "54c3865c07bfd90ef97f2490c0b4669ad7b3fe5e5c6dcdaeb44e8f9e9dbbf1f6"
+    },
+    {
+      "path": "visual-assets/procedural/water-normal.png",
+      "bytes": 2256447,
+      "sha256": "159221062e1a1c01a7c7f0aa069301cb2b4fcbc5e571ade8cb95224aa82a0b38"
+    },
+    {
+      "path": "visual-assets/procedural/water-roughness.png",
+      "bytes": 620936,
+      "sha256": "368006d44ba3f1f223c00f180205f353809bfb3ce27721fa8beec5665858adda"
+    },
+    {
+      "path": "visual-assets/sources.json",
+      "bytes": 3750,
+      "sha256": "5bf147534e5cac72a3e43b4f6b8116f7c4f8733efd71b36b1cd937f05382f670"
+    }
+  ]
+}
